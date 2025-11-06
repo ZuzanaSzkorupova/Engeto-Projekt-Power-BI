@@ -1,8 +1,7 @@
 # Engeto-Projekt-Power-BI
 Power BI projekt pre Engeto kurz - Datová Akademie
 
-# Název projektu: 
-# Sustainability in the banking sector in selected EU countries
+# Název projektu: ## Sustainability in the banking sector in selected EU countries
 
 Tento report byl vytvořen v nástroji Power BI na základě dat z databáze Refinitiv Eikon. Data zachycují informace o výkonnosti bank, dodržování pravidel likvidity a kapitálové přiměřenosti ve vztahu k ukazatelům udržitelnosti ESG (E – environmental, S – social, G – governance) ve vybraných bankách evropských zemích. Data ESG jsou sestavena na základě taxonomie EU. Data pokrývají časové období 2002–2024.
 
@@ -32,5 +31,8 @@ Report zahrnuje různé typy vizualizací, které usnadňují porozumění vývo
 
 Autor: *[Zuzana_Szkorupová]*  
 Rok: 2025
+
+---
+
 
 - 
