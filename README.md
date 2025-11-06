@@ -18,12 +18,12 @@ Report zahrnuje různé typy vizualizací, které usnadňují porozumění vývo
 - Průřezy pro filtrování dat
 - a další
 
-- ## 🧰 Použité technologie
+## 🧰 Použité technologie
 
 - **Power BI** – tvorba reportu a vizualizací
 - **xlsx soubor** – datový zdroj importovaný do Power BI
 
-  ## 🗂 Soubory v repozitáři
+## 🗂 Soubory v repozitáři
 
 - `vizualizace_dat_ESG_v_bankovnictví.pbix` – originální Power BI soubor s interaktivním reportem
 
